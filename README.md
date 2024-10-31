@@ -2,20 +2,24 @@
 
 This repository covers a variety of machine learning concepts and techniques, organized into different categories for easier navigation.
 
-## 1. Neural Networks
+
+## 1. Feature Engineering 
+
+- **Feature Engineering**
+
+## 2. Neural Networks
 - **NN (Neural Networks)**
+- **Activation Functions**
+- **CNN ( Convolutional Neural Networks)**
 - **RNN (Recurrent Neural Networks)**
 - **LSTM (Long Short-Term Memory)**
 
-## 2. Regression Techniques
+## 3. Regression Techniques
 - **Linear Regression**
 - **Polynomial Regression**
 - **Logistic Regression**
 - **Lasso and Ridge Regression**
 
-## 3. Feature Engineering and Activation
-- **Activation Functions**
-- **Feature Engineering**
 
 ## 4. Model Evaluation and Tuning
 - **Hyperparameter Tuning (Random Forest)**
@@ -24,6 +28,7 @@ This repository covers a variety of machine learning concepts and techniques, or
 
 ## 5. Decision Trees and Ensemble Methods
 - **Decision Tree**
+- **Gini impurity**
 - **Random Forest**
 - **Ensemble Methods**
 
