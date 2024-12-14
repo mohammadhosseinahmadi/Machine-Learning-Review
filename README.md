@@ -6,6 +6,7 @@ This repository covers a variety of machine learning concepts and techniques, or
 ## 1. Feature Engineering 
 
 - **Feature Engineering**
+-  **K-Means**
 
 ## 2. Neural Networks
 - **NN (Neural Networks)**
